@@ -1,6 +1,6 @@
 # Exploration of Data Anaysis
 
-This repository hosts a [Jupyter Notedbook](prompt.ipynb) that demonstrates the various ways data analysis can be performed using Pandas, NumPy and Seaborn libraries. Analysis is performed on the [coupons data](coupons.csv) taken from  UCI Machine Learning repository. The problem statement for the exploratory phase is outlined below along with data description and key findings.  
+This repository hosts a [Jupyter Notedbook](prompt.ipynb) that demonstrates the various ways data analysis can be performed using Pandas, NumPy and Seaborn libraries. Analysis is performed on the [coupons data](data/coupons.csv) taken from  UCI Machine Learning repository. The problem statement for the exploratory phase is outlined below along with data description and key findings.  
 
 ## Problem Statement
 The [data](data/coupons.csv) provided to us have the information about various users who under a certain context were shown a coupon to nearby establishments. We were also provided a column Y in the data that indicates if the coupon has been accepted by the user or not. The objective of this exercise is to highlight the differences between customers who did and did not accept the coupons.
