@@ -1,6 +1,6 @@
-# Exploration of Data Anaysis
+# Exploration of Data Analysis
 
-This repository hosts a [Jupyter Notedbook](prompt.ipynb) that demonstrates the various ways data analysis can be performed using Pandas, NumPy and Seaborn libraries. Analysis is performed on the [coupons data](data/coupons.csv) taken from  UCI Machine Learning repository. The problem statement for the exploratory phase is outlined below along with data description and key findings.  
+This repository hosts a [Jupyter Notebook](prompt.ipynb) that demonstrates the various ways data analysis can be performed using Pandas, NumPy and Seaborn libraries. Analysis is performed on the [coupons data](data/coupons.csv) taken from  UCI Machine Learning repository. The problem statement for the exploratory phase is outlined below along with data description and key findings.  
 
 ## Problem Statement
 The [data](data/coupons.csv) provided to us have the information about various users who under a certain context were shown a coupon to nearby establishments. We were also provided a column Y in the data that indicates if the coupon has been accepted by the user or not. The objective of this exercise is to highlight the differences between customers who did and did not accept the coupons.
@@ -16,7 +16,7 @@ There are various attributes of the user like their gender, age, marital status,
 ### Contextual Attributes
 Some of the attributes that were provided to us are driving destination, which is categorical data with a limited amount of categories,location of user, coupon and destination, weather data, temperature, time and Passengers in the car when the coupon is shown. 
 
-### Coupon Attibutes 
+### Coupon Attributes 
 This data only contains the time before it expires. 
 
 ## Key Findings
@@ -33,7 +33,7 @@ This data only contains the time before it expires.
     - Drivers in occupations other than farming, fishing or forestry have higher probability of accepting the coupons. 
 - For Coffee House Coupons
     - Acceptance rate is at 49.92%
-    - Acceptance rate is higher for people who visit Coffee House 4 or mote times.
+    - Acceptance rate is higher for people who visit Coffee House 4 or more times.
     - Combination of income group, or farming or fishing or forestry does not have any impact on the acceptance rate. 
     - There is a high acceptance rate from people who go to Coffee House more than once. 
 
