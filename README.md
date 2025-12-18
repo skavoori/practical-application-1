@@ -21,12 +21,21 @@ This data only contains the time before it expires.
 
 ## Key Findings
 - Overall acceptance rate of coupons is at 56.84%
+- Overall acceptance rate is higher for people whose age is less than 30 when compared to all others.  
 - There are more Females who rejected the coupons than Male.
 - Acceptance rate is higher for `Carry out & Take away` Coupons.
 - Acceptance rate is lower for `Bar` Coupons
 - For Bar Coupons 
+    - Acceptance rate is at 41% 
     - Acceptance rate is higher for people who visit Bar 4 or more times. 
-    - 
+    - There are more number of drivers under the age of 30 that accepted the coupon. 
+    - Drivers in the lower income group are less likely to accept the coupon. Their acceptance rate is lower. 
+    - Drivers in occupations other than farming, fishing or forestry have higher probability of accepting the coupons. 
+- For Coffee House Coupons
+    - Acceptance rate is at 49.92%
+    - Acceptance rate is higher for people who visit Coffee House 4 or mote times.
+    - Combination of income group, or farming or fishing or forestry does not have any impact on the acceptance rate. 
+    - There is a high acceptance rate from people who go to Coffee House more than once. 
 
 
 ## Methodology 
